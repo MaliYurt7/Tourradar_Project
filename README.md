@@ -20,5 +20,9 @@ It is created basic Page Object Model design pattern but it can be improved if n
  **Test Reports Locations :**
 1- Cucumber HTML Plugin Reports "target" ->"cucumber"->"cucumber-html-reports" -> overview-features.html
 
+**Run via CukesRunner :**
+1- follow to the path src/test/java/com/tourradar/runners/CukesRunner.java
+2- run on public class CukesRunner
+
  **Parallel Run :**
 1- Click Maven -> click "Verify"
